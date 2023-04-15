@@ -1,5 +1,5 @@
 // Define the address you want to geocode
-var address = "1600 Amphitheatre Parkway, Mountain View, CA";
+var address = "carrera 26b #74-44, Barranquilla, Colombia";
 
 // Create a geocoder object
 var geocoder = new google.maps.Geocoder();
