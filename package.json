@@ -1,0 +1,21 @@
+{
+  "name": "datafromgooglemapsapi",
+  "version": "1.0.0",
+  "description": "I'm trying to consume the Google Maps API to receive latitude and longitude from an address.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon gettingData.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeldacamila/dataFromGoogleMapsAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeldacamila/dataFromGoogleMapsAPI/issues"
+  },
+  "homepage": "https://github.com/zeldacamila/dataFromGoogleMapsAPI#readme"
+}
